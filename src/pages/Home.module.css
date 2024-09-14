@@ -1,0 +1,7 @@
+.home {
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 0.5fr;
+    gap:0;
+    height: 80dvh;
+
+}

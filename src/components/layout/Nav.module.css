@@ -1,0 +1,22 @@
+.nav {
+    background-color: #F4F4F4;
+    display: flex;
+    justify-content: center;
+    text-align: start;
+}
+
+.nav ul {
+    padding: 0;
+    list-style-type: none;
+    color: #252525;
+}
+
+.nav ul li a {
+    all: unset;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.nav ul li {
+    margin-bottom: 10%;
+}
